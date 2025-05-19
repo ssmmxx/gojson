@@ -104,7 +104,7 @@ CLI Installation
 ----------------
 
 ```sh
-$ go get github.com/ChimeraCoder/gojson/gojson
+$ go get github.com/ssmmxx/gojson/gojson
 ```
 
 Assuming `$GOPATH/bin` is in your `PATH`, you can now invoke `gojson` directly.
@@ -114,14 +114,14 @@ API Installation
 ----------------
 
 ```sh
-$ go get github.com/ChimeraCoder/gojson/gojson
+$ go get github.com/ssmmxx/gojson/gojson
 ```
 
 Development
 -----------
 
 ```
-$ git clone https://github.com/ChimeraCoder/gojson.git
+$ git clone https://github.com/ssmmxx/gojson.git
 $ cd gojson
 $ go test
 ```
