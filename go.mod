@@ -1,4 +1,4 @@
-module github.com/ssmmxx/gojson
+module gojson
 
 go 1.23.3
 
